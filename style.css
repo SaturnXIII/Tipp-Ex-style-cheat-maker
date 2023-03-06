@@ -1,0 +1,64 @@
+.e1_5 { 
+	width:335px;
+	height:297px;
+	background-image:url(antisechemaker.png);
+    margin-left: 610px;
+    margin-top: 170px;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+}
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+font-size: 15px;
+}
+
+.input {
+    overflow: hidden;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+    box-shadow: none;
+    border: none;
+    margin: 0;
+    background: rgba(0, 0, 0, 0);
+    margin-left: 10px;
+    margin-top: 145px;
+    width: 440px;
+    height: 150px;
+    outline: none;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #f3d1d1 5%, #a919ab 100%);
+	background-color:#f3d1d1;
+	border-radius:28px;
+	border:1px solid #a919ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #a919ab 5%, #f3d1d1 100%);
+	background-color:#a919ab;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.github {
+    width:50px;
+	height:50px;
+    margin-left: 140px;
+}
