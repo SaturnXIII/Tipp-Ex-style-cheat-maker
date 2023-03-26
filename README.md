@@ -1,6 +1,6 @@
 >Tipp-Ex style cheat maker
 >
-> https://tipp-ex-style-sheet.glitch.me/
+> [https://tipp-ex-style-sheet.glitch.me/](https://tipp-ex-style-cheat.glitch.me/)
 > ## story🎴 ## 
 I needed to create some antiseptic without using photoshop. 
 
