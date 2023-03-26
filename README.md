@@ -1,4 +1,4 @@
->Tipp-Ex style sheet maker
+>Tipp-Ex style cheat maker
 >
 > https://tipp-ex-style-sheet.glitch.me/
 > ## story🎴 ## 
